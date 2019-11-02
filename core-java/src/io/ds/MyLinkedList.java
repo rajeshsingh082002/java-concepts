@@ -6,7 +6,7 @@ public class MyLinkedList<T> {
 	
 	public static void main(String[] args) {
 		MyLinkedList<String> list = new MyLinkedList<String>();
-		list.traverse();
+	//	list.traverse();
 		list.add("John");
 		list.add("Paul");
 		list.add("Marry");
